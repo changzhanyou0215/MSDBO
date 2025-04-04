@@ -1,0 +1,1 @@
+If you are interested in this article, feel free to cite: Chang Z, Luo J, Zhang Y, et al. A mixed strategy improved dung beetle optimization algorithm and its application[J]. 2023. https://doi.org/10.21203/rs.3.rs-2988123/v1
